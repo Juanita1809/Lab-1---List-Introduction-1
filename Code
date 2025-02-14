@@ -1,0 +1,19 @@
+# x = a single object
+x = 9
+print(x)
+print(type(x))
+
+# x = a list of integers
+x = [1, 2, 5, 66, 42, 19]
+print(x)
+print(type(x))
+
+# x = a list of character strings
+x = ["Duranzno", "Lichi", "Cereza", "Naranja"]
+print(x)
+print(type(x))
+
+# x = a list of mixed type objects (integers, floats, and strings)
+x = [100, "Python", 3.14, "AI", 42.5, "Code"]
+print(x)
+print(type(x))
